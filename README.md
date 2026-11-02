@@ -2,6 +2,8 @@
 
 [Read in English](README.en.md)
 
+English version: [README.en.md](README.en.md) (archivos en `en/`).
+
 Un ejemplo mínimo y real de cada pieza con la que se extiende Claude Code, colocado donde va, para copiar a tu proyecto. La regla corta: **CLAUDE.md** para lo que Claude debe saber siempre, **skill** para procedimientos, **subagente** para aislar trabajo, **hook** para lo que debe pasar siempre, **MCP** para conectar servicios y **plugin** para empaquetar y compartir.
 
 La referencia completa (cuándo usar cada una, cuánto contexto gasta, quién gana si se repiten) está en:
